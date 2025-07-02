@@ -22,9 +22,9 @@
     "OM"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
-  "developerCommunityUrl": null,
-  "openBankProjectUrl": null,
+  "developerPortalUrl": https://www.bankmuscat.com/_api/,
+  "developerCommunityUrl": https://www.bankmuscat.com,
+  "openBankProjectUrl": https://developer.db.com,
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
